@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    margin: 0px 0px 0px 0px;
+}
+.block {
+    margin: 5px 5px 5px 5px;
+    width: 160px;
+    height: 190px;
+    border: solid;
+    display: inline-block;
+    border-radius: 10px;
+}
